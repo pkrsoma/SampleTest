@@ -1,4 +1,4 @@
-package SampleScanner;
+package com.sample.scanner;
 import java.util.Scanner;
 public class SampleScanner {
 
