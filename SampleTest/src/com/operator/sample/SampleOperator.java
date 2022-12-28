@@ -24,8 +24,14 @@ public class SampleOperator {
 				System.out.println(x>y&x<y);
 				System.out.println(x>y||x<y);
 				System.out.println(x<y|x>y);
+				
+				
+				
+				
+				
+				
 
-
+aaaaaaa
 
 
 
